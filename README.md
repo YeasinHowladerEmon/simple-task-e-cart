@@ -13,7 +13,7 @@ This is a simple e-commerce application with product filtering, state management
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/YeasinHowladerEmon/simple-task-e-cart.git
 Install dependencies:
 bash
 Copy code
