@@ -14,7 +14,6 @@ export type IProduct = {
 };
 export const ProductApi = api.injectEndpoints({
   endpoints: builder => ({
-    //home 10books
     getProducts: builder.query<IProduct[], void>({
       query: () => "/products"
     })
